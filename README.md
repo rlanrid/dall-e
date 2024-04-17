@@ -1,4 +1,4 @@
-# VITE REACT로 AI 이미지 생성 사이트 만들기
+# 🖼VITE REACT로 AI 이미지 생성 사이트 만들기
 
 ## 🔧초기세팅   
 `npm create vite@latest ./`   
